@@ -121,4 +121,3 @@ public class RegularPolygon extends SimplePolygon {
         return vertices;
     }
 }
-
