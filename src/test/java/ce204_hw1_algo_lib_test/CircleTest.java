@@ -1,9 +1,10 @@
-package io.github.rabiasm;
+package ce204_hw1_algo_lib_test;
 
 import org.junit.Assert;
 import org.junit.Test;
-import io.github.rabiasm.shapes.Circle;
-import io.github.rabiasm.shapes.Point;
+
+import ce204_hw1_algo_lib.Point;
+import ce204_hw1_algo_lib.shapes.Circle;
 
 
 public class CircleTest {

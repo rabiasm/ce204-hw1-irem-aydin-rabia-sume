@@ -1,8 +1,9 @@
-package io.github.rabiasm;
+package ce204_hw1_algo_lib_test;
 
-import io.github.rabiasm.shapes.Ellipse;
 import org.junit.Assert;
 import org.junit.Test;
+
+import ce204_hw1_algo_lib.shapes.Ellipse;
 
 public class EllipseTest {
 

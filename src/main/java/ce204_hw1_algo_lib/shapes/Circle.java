@@ -1,3 +1,6 @@
+package ce204_hw1_algo_lib.shapes;
+
+import ce204_hw1_algo_lib.shapes.abstracts.EllipticalShape;
 
 /**
  * Circle class
