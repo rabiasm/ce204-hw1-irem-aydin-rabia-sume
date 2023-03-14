@@ -1,9 +1,9 @@
-package io.github.rabiasm;
+package ce204_hw1_algo_lib_test;
 
 import org.junit.Assert;
 import org.junit.Test;
-import io.github.rabiasm.shapes.Point;
-import io.github.rabiasm.shapes.ArbitraryPolygon;
+
+import ce204_hw1_algo_lib.shapes.ArbitraryPolygon;
 
 public class ArbitraryPolygonTest {
 

@@ -1,15 +1,16 @@
-package io.github.rabiasm;
+package ce204_hw1_algo_lib_test;
 
 import org.junit.Assert;
 import org.junit.Test;
-import io.github.rabiasm.shapes.Point;
-import io.github.rabiasm.shapes.RegularPolygon;
+
+import ce204_hw1_algo_lib.shapes.RegularPolygon;
 
 public class RegularPolygonTest {
 	
 
     @Test
     public void testArea() {
+        RegularPolygon regularPolygon = new RegularPolygon();
         regularPolygon.changeNumPoints(3);
         regularPolygon.changeScale(4);
         double expectedArea = 20.785;

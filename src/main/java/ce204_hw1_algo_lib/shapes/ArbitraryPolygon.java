@@ -1,6 +1,10 @@
+package ce204_hw1_algo_lib.shapes;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import ce204_hw1_algo_lib.Point;
+import ce204_hw1_algo_lib.shapes.abstracts.Polygon;
 
 
 /**
@@ -24,7 +28,7 @@ public class ArbitraryPolygon extends Polygon {
      * Create a new polygon with no vertices.
      */
     public ArbitraryPolygon() {
-        this.vertices = new ArrayList<>();
+        this.vertices = new ArrayList();
     }
 
     /**
