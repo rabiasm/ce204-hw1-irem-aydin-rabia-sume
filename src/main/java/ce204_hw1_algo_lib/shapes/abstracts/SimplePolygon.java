@@ -1,3 +1,4 @@
+package ce204_hw1_algo_lib.shapes.abstracts;
 
 /**
  * Abstract class for SimplePolygon shapes

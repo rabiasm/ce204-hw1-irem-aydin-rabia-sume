@@ -1,4 +1,5 @@
-package io.github.rabiasm;
+package ce204_hw1_algo_lib;
+
 
 /**
  * Point class
