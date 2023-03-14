@@ -1,4 +1,3 @@
-package io.github.rabiasm.shapes.abstracts;
 
 /**
  * Abstract class for SimplePolygon shapes

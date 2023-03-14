@@ -1,7 +1,3 @@
-package io.github.rabiasm.shapes;
-
-import org.example.Point;
-import org.example.shapes.abstracts.Polygon;
 
 import java.util.ArrayList;
 import java.util.List;

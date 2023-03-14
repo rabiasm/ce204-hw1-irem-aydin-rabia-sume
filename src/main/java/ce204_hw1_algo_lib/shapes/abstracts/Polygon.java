@@ -1,6 +1,4 @@
-package io.github.rabiasm.shapes.abstracts;
 
-import io.github.rabiasm.Point;
 
 /**
  * Abstract class for Polygon shapes

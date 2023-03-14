@@ -1,8 +1,3 @@
-package io.github.rabiasm.shapes;
-
-
-import org.example.Point;
-import org.example.shapes.abstracts.EllipticalShape;
 
 /**
  * Ellipse class

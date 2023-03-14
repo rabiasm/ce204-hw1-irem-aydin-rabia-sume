@@ -1,8 +1,3 @@
-package io.github.rabiasm.shapes;
-
-
-
-import org.example.shapes.abstracts.EllipticalShape;
 
 /**
  * Circle class
