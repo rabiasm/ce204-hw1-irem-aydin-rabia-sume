@@ -29,7 +29,7 @@ public class RegularPolygon extends SimplePolygon {
      * Sets the orientation to 0
      */
     public RegularPolygon() {
-        this(0, 0);
+        this(0, 1);
     }
 
     /**
