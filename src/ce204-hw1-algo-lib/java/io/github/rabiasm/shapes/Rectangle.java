@@ -140,4 +140,22 @@ public class Rectangle extends SimplePolygon {
         boundingRect.setHeight(maxY - minY);
         return boundingRect;
     }
+    
+
+
+    /**
+     * get the width of the rectangle
+     * @return width
+     */
+    public double getWidth() {
+        return width;
+    }
+
+    /**
+     * get the height of the rectangle
+     * @return height
+     */
+    public double getHeight() {
+        return height;
+    }
 }
